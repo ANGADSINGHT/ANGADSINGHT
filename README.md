@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANGADSINGHT
-- 👀 I’m interested in discord.py, python, html
-- 🌱 I’m currently learning discord.py, python, html, lua
+- 👀 I’m interested in nextcord.py, python, html
+- 🌱 I’m currently learning nextcord.py, python, html
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me: text me +44 7552677982
 
