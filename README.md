@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANGADSINGHT
-- 👀 I’m interested in nextcord.py, python, html
-- 🌱 I’m currently learning nextcord.py, python, html
+- 👀 I’m interested in BulletMC / Minecraft, Kotlin
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me: text me +44 7552677982
 
